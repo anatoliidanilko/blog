@@ -2,7 +2,8 @@
 .DS_Store
 .sass-cache
 .gist-cache
-.pygments-cache
+.pygments-cache'
+*.swp
 _deploy
 public
 sass.old
@@ -11,4 +12,3 @@ source/_stash
 source/stylesheets/screen.css
 vendor
 node_modules
-Gemfile.lock
